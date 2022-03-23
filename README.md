@@ -215,16 +215,16 @@
  * [Netz](https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
  * [RustScan](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
-# Forensic
+# `Forensic`
 
-## Tools
+## `Tools`
  * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
  * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
 
-# Cryptography
+# `Cryptography`
 
 ### Tools
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
@@ -233,7 +233,7 @@
  * [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
 
-# Wargame
+# `Wargame`
 
 ## System
  * [OverTheWire - Semtex](http://overthewire.org/wargames/semtex/)
