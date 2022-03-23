@@ -84,7 +84,7 @@
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
 
 
-# Reverse Engineering
+# `Reverse Engineering`
 
 ## Tutorials
 * [Begin RE: A Reverse Engineering Tutorial Workshop](https://www.begin.re/the-workshop)
